@@ -1,4 +1,6 @@
-<img width="auto" src="https://github.com/Laercio2/Next-Level-Week-2/blob/master/banner.png">
+<h1 align="center">
+    <img alt="Happy" title="Happy" src=".github/logo.svg" />
+</h1>
 
 <h1 align="center">#Next Level Week, third edition, project "Happy".</h1>
 
