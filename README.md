@@ -11,9 +11,9 @@
 This event had five days, from Monday to Friday, with exclusive and free materials, separated into:
 - [x] "Accelerating Your Evolution"
 - [x] "Looking at opportunities"
-- [o] "The Stack's Choice"
-- [o] "Up to two years in 2 months"
-- [o] "The extra mile"
+- [x] "The Stack's Choice"
+- [x] "Up to two years in 2 months"
+- [x] "The extra mile"
 
 ---
 ## 🚀 Technologies used
